@@ -4,4 +4,15 @@ pyOpenSSL>=23.2.0
 beautifulsoup4>=4.12.2
 lxml>=4.9.3
 rich>=13.5.2
+pycryptodome
+asyncio
+aiohttp
+aiofiles
+requests[socks]
+psutil
+pyc
+httpx[http2]
+colorama
+termcolor
+pyfiglet
 googlesearch-python>=1.2.3
