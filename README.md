@@ -48,7 +48,7 @@ cd KIANPARSER
 pip install -r requirements.txt
 
 # Run the tool
-python cdork.py
+python kiduk.py
 ```
 ### On Ubuntu / Debian-based Systems
 ```
@@ -71,5 +71,5 @@ cd KIANPARSER
 pip3 install -r requirements.txt
 
 # Run the tool
-python3 cdork.py
+python3 kiduk.py
 ```
